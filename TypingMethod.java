@@ -3,7 +3,7 @@ public class TypingMethod {
   public static void main(String[] args) {
 int num=1;
 int nums=0; 
-while(num<1001) 
+while(num<=1000) 
  { 
  nums=nums+num; 
  num++; 
