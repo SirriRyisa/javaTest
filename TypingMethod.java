@@ -27,16 +27,14 @@ public class TypingMethod {
         System.out.println("Sunday");
         break;
       }
-
-        System.out.println(dayOfWeek);
     }
     
-    public void condition(String Lname){
-      Lname = "Sirri";
+    public void condition(String lname){
+      lname = "Sirri";
 
-      if(Lname == "Ryisa") {
+      if(lname == "Ryisa") {
         System.out.println("Heyy cutie");
-      }else if(Lname == "Sirri") {
+      }else if(lname == "Sirri") {
         System.out.println("Put in the work and live you dream life");
       }else{
         System.out.println("Keep trying");
