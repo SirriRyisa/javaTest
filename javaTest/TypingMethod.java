@@ -26,8 +26,8 @@ System.out.println("even num "+i);
 
 // Dynamic methods for days of week and condition
 
-    new TypingMethod().switchcase("Sunday", 7);
-    new TypingMethod().condition("Sirri");
+new TypingMethod().switchcase("Sunday", 7);
+new TypingMethod().condition("Sirri");
     
   }
 
